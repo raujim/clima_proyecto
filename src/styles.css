@@ -1,12 +1,12 @@
 * {
   margin: 0;
   padding: 0;
-  background-origin: border-box;
+  background-image: none;
 }
 
 body {
   font-family: sans-serif;
-  background-color: rgba(92, 129, 129, 0.3);
+  background-color: rgba(97, 40, 231, 0.3);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,12 +15,12 @@ body {
 }
 
 .title {
-  color: white;
+  color: rgb(5, 3, 10);
 }
 
 .containerWeather {
   text-align: center;
-  background-color: rgb(77, 108, 155);
+  background-color: rgb(86, 76, 230);
   width: 60%;
 }
 

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-origin: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgba(92, 129, 129, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  margin: 0;
+}
+
+.title {
+  color: white;
+}
+
+.containerWeather {
+  text-align: center;
+  background-color: rgb(77, 108, 155);
+  width: 60%;
+}
+
+/* Estilos para el botón de obtener clima */
